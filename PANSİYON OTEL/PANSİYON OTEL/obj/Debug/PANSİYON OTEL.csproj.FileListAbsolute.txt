@@ -1,0 +1,22 @@
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\bin\Debug\PANSİYON OTEL.exe.config
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\bin\Debug\PANSİYON OTEL.exe
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\bin\Debug\PANSİYON OTEL.pdb
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.csproj.AssemblyReference.cache
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Form1.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.FrmAnaEkran.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Frmodalar.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.FrmYenimusteri.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Properties.Resources.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.csproj.GenerateResource.cache
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.csproj.CoreCompileInputs.cache
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.exe
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.pdb
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Musteriler.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON OTEL.csproj.ResolveComReference.cache
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Müzik.resources
+C:\Users\MERT\Desktop\FİNAL PROJESİ\PANSİYON OTEL\PANSİYON OTEL\obj\Debug\PANSİYON_OTEL.Form2.resources
